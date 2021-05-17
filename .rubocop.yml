@@ -1,0 +1,11 @@
+Style/FrozenStringLiteralComment:
+  EnforcedStyle: never
+Metrics/BlockLength:
+  Enabled: false
+Style/Documentation:
+  Enabled: false
+Style/EmptyMethod:
+  Enabled: false
+Layout/SpaceInsideBlockBraces:
+  Enabled: false
+    
